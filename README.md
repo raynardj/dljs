@@ -1,2 +1,2 @@
-# dljs
-Deep learning in Javascript
+# Deep learning with JavaScript
+Frontend + AI
